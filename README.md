@@ -14,6 +14,19 @@ npm run dev                  # http://localhost:3000
 
 It works without any keys. Prices come from Yahoo Finance, news comes from central-bank RSS feeds and FXStreet, and the AI analysis uses Pollinations' free keyless GPT-OSS 20B.
 
+### Start automatically with Windows
+`start-server.cmd` runs `npm run dev` from the project folder and appends all output to `dev.log`, with a timestamped line at each start. A launcher in the Windows Startup folder (`%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\FX Compass.vbs`) runs it in a hidden window every time you log in:
+
+```vbs
+CreateObject("WScript.Shell").Run """C:\Users\Jom\Documents\forex\start-server.cmd""", 0, False
+```
+
+- The server starts when you **log in**, not at boot, and is up at http://localhost:3000 a few seconds later.
+- **Start it now:** double-click `FX Compass.vbs`. No window appears; check `dev.log` to confirm it started.
+- **Stop it:** end the `node.exe` process in Task Manager.
+- **Turn off auto-start:** press Win+R, enter `shell:startup` and delete `FX Compass.vbs`.
+- If port 3000 is already in use, Next.js picks the next free port. `dev.log` shows which one.
+
 ## Pages
 
 | Page | What it shows |
