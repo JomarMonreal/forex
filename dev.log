@@ -1,0 +1,1029 @@
+
+> forex@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.28
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.17:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ○ Compiling /instrumentation ...
+ ✓ Compiled /instrumentation in 1480ms (66 modules)
+[news] poller started, every 180s
+ ✓ Ready in 3.8s
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ○ Compiling / ...
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+Request timed out after 3000ms
+
+Retrying 1/3...
+Request timed out after 3000ms
+
+Retrying 1/3...
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+Request timed out after 3000ms
+
+Retrying 2/3...
+Request timed out after 3000ms
+
+Retrying 2/3...
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+Request timed out after 3000ms
+
+Retrying 3/3...
+Request timed out after 3000ms
+
+Retrying 3/3...
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[Error: Request timed out after 3000ms]
+ ⨯ Failed to download `Geist` from Google Fonts. Using fallback font instead.
+
+Failed to fetch `Geist` from Google Fonts.}
+[Error: Request timed out after 3000ms]
+ ⨯ Failed to download `Geist Mono` from Google Fonts. Using fallback font instead.
+
+Failed to fetch `Geist Mono` from Google Fonts.}
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled / in 29s (715 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 941ms
+ GET / 200 in 30927ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 361ms
+ ○ Compiling /top ...
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled /top in 2.6s (704 modules)
+ GET /top 200 in 3787ms
+ GET / 200 in 1829ms
+ ○ Compiling /analyzer ...
+ ✓ Compiled /analyzer in 1521ms (715 modules)
+ GET /analyzer?pair=EURUSD 200 in 2232ms
+ ○ Compiling /news ...
+ ✓ Compiled /news in 750ms (722 modules)
+ GET /news 200 in 1320ms
+ ○ Compiling /api/quotes ...
+ ✓ Compiled /api/quotes in 2.2s (788 modules)
+ GET / 200 in 516ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 511ms (540 modules)
+ GET /api/quotes 200 in 10535ms
+ GET /favicon.ico 200 in 1105ms
+ GET /top 200 in 451ms
+ GET /api/quotes 200 in 7125ms
+ GET /favicon.ico 200 in 32ms
+ ○ Compiling /api/scan ...
+ ✓ Compiled /api/scan in 1365ms (803 modules)
+ GET /api/scan 200 in 1685ms
+ GET /api/scan 200 in 24ms
+ GET /analyzer?pair=EURUSD 200 in 462ms
+ GET /favicon.ico 200 in 35ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 567ms (805 modules)
+ GET /api/scan 200 in 31ms
+ GET /api/scan 200 in 41ms
+ GET /news 200 in 287ms
+ GET /favicon.ico 200 in 30ms
+ ○ Compiling /api/news ...
+ ✓ Compiled /api/news in 1395ms (807 modules)
+ GET /api/news?limit=300 200 in 1618ms
+ GET /api/scan 200 in 29ms
+ GET /api/news/stream 200 in 5913ms
+ GET /api/news/stream 200 in 5912ms
+ GET /api/news/stream 200 in 13455ms
+ GET /api/analyze?pair=EURUSD 200 in 13379ms
+ GET /api/news/stream 200 in 21587ms
+ GET /api/news/stream 200 in 29363ms
+ GET /api/quotes 200 in 9934ms
+ GET /api/quotes 200 in 32ms
+ GET /api/quotes 200 in 15067ms
+ GET /api/quotes 200 in 611ms
+ GET /api/quotes 200 in 6736ms
+ GET /api/quotes 200 in 691ms
+ GET /api/quotes 200 in 8210ms
+ GET /api/quotes 200 in 886ms
+ GET /api/quotes 200 in 9071ms
+ GET /api/quotes 200 in 617ms
+ GET /api/quotes 200 in 11229ms
+ GET /api/quotes 200 in 900ms
+ GET /api/quotes 200 in 8964ms
+ GET /api/quotes 200 in 623ms
+ GET /api/quotes 200 in 9234ms
+ GET /api/quotes 200 in 626ms
+ GET /api/quotes 200 in 8964ms
+ GET /api/quotes 200 in 817ms
+ GET /api/quotes 200 in 16466ms
+ GET /api/quotes 200 in 1057ms
+ GET /api/quotes 200 in 17102ms
+ GET /api/quotes 200 in 725ms
+ GET /top 200 in 171ms
+ GET /api/scan 200 in 25ms
+ GET /api/scan 200 in 22ms
+ GET /analyzer?pair=USDSEK 200 in 78ms
+ GET /api/analyze?pair=USDSEK 200 in 594ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 28ms
+ GET /analyzer?pair=USDSEK 200 in 59ms
+ GET /top 200 in 50ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 18ms
+ GET /analyzer?pair=USDSEK 200 in 56ms
+ GET /api/analyze?pair=USDSEK 200 in 106ms
+ GET /api/analyze?pair=USDSEK 200 in 155ms
+ GET /api/analyze?pair=USDSEK 200 in 2465ms
+ GET /api/analyze?pair=USDSEK 200 in 4179ms
+ GET /api/analyze?pair=USDSEK 200 in 90274ms
+ GET /top 200 in 55ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 30ms
+ GET /api/scan 200 in 30ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 25ms
+ GET /api/scan?force=1 200 in 77ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 30ms
+ GET /api/scan 200 in 32ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 16ms
+ GET /api/scan 200 in 16ms
+ GET /analyzer 200 in 68ms
+ GET /api/analyze?pair=EURUSD 200 in 975ms
+ GET /api/analyze?pair=EURUSD 200 in 41ms
+ GET / 200 in 66ms
+ GET /analyzer?pair=USDSEK 200 in 59ms
+ GET /api/quotes 200 in 15058ms
+ GET /api/quotes 200 in 4551ms
+ GET /api/analyze?pair=USDSEK 200 in 6123ms
+ GET /api/analyze?pair=USDSEK 200 in 59ms
+ GET /top 200 in 56ms
+ GET /api/scan 200 in 30ms
+ GET /api/scan 200 in 36ms
+ GET /api/analyze?pair=USDSEK 200 in 90085ms
+ GET /api/scan 200 in 26ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 25ms
+ GET /api/scan 200 in 24ms
+ GET /api/scan 200 in 15ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 24ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan?force=1 200 in 31ms
+ GET /api/scan 200 in 16ms
+ GET /api/scan 200 in 30ms
+ GET /api/scan 200 in 26ms
+ GET /api/scan 200 in 16ms
+ GET /api/scan 200 in 31ms
+ GET /api/scan 200 in 59ms
+ GET /api/scan 200 in 35ms
+ GET /api/scan 200 in 25ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 24ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 24ms
+ GET /api/scan 200 in 15ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 33ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 16ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 25ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 34ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 15ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 26ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 15ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 19ms
+ GET /news 200 in 64ms
+ GET /api/news?limit=300 200 in 33ms
+ GET /api/news?limit=300 200 in 26ms
+ GET /api/news/stream 200 in 4462ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 26ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 25ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 15ms
+ GET /api/scan 200 in 26ms
+ GET /api/scan 200 in 25ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan?force=1 200 in 30ms
+ GET /api/scan 200 in 26ms
+ GET /api/scan 200 in 31ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 25ms
+ GET /api/scan 200 in 33ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 33ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 30ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 26ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 32ms
+ GET /api/scan 200 in 16ms
+ GET /api/scan 200 in 16ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 25ms
+ GET /api/scan 200 in 24ms
+ GET /api/scan 200 in 31ms
+ GET /api/scan 200 in 26ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 17ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 15ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 30ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 24ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 25ms
+ GET /analyzer 200 in 53ms
+ GET /api/analyze?pair=EURUSD 200 in 687ms
+ GET /api/analyze?pair=EURUSD 200 in 143ms
+ GET /analyzer?pair=USDSEK 200 in 48ms
+ GET /api/analyze?pair=USDSEK 200 in 702ms
+ GET /api/analyze?pair=USDSEK 200 in 72569ms
+ GET /api/analyze?pair=USDSEK 200 in 813ms
+ GET /api/analyze?pair=USDSEK 200 in 914ms
+ GET /api/analyze?pair=USDSEK 200 in 763ms
+ GET /api/analyze?pair=USDSEK 200 in 18131ms
+ GET /api/analyze?pair=USDSEK 200 in 93ms
+ GET /api/analyze?pair=USDSEK 200 in 741ms
+ GET / 200 in 56ms
+ GET /api/quotes 200 in 961ms
+ GET /api/quotes 200 in 43ms
+ GET /news 200 in 58ms
+ GET /api/news?limit=300 200 in 55ms
+ GET /api/news?limit=300 200 in 18ms
+ GET /analyzer 200 in 69ms
+ GET /api/news/stream 200 in 925ms
+ GET / 200 in 52ms
+ GET /api/quotes 200 in 26ms
+ GET /api/quotes 200 in 21ms
+ GET /api/analyze?pair=EURUSD 200 in 703ms
+ GET /api/analyze?pair=EURUSD 200 in 24364ms
+ GET /api/quotes 200 in 1076ms
+ GET /api/quotes 200 in 24ms
+ GET /api/quotes 200 in 895ms
+ GET /api/quotes 200 in 22ms
+ GET /api/quotes 200 in 864ms
+ GET /api/quotes 200 in 19ms
+ GET /api/quotes 200 in 895ms
+ GET /api/quotes 200 in 27ms
+ GET /analyzer 200 in 67ms
+ GET /api/analyze?pair=EURUSD 200 in 731ms
+ GET /api/analyze?pair=EURUSD 200 in 141ms
+ GET /api/analyze?pair=EURUSD 200 in 737ms
+ GET /api/analyze?pair=EURUSD 200 in 35310ms
+ GET /api/analyze?pair=EURUSD 200 in 868ms
+ GET /api/analyze?pair=EURUSD 200 in 767ms
+ GET /top 200 in 62ms
+ GET /api/scan 200 in 71ms
+ GET /api/scan 200 in 31ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 21ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 24ms
+ GET /api/scan 200 in 24ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 29ms
+ GET /api/scan 200 in 23ms
+ GET /api/scan 200 in 20ms
+ GET /api/scan 200 in 21ms
+ GET / 200 in 54ms
+ GET /api/quotes 200 in 2456ms
+ GET /api/quotes 200 in 21ms
+ GET /analyzer?pair=USDSEK 200 in 50ms
+ GET /api/analyze?pair=USDSEK 200 in 832ms
+ GET /api/analyze?pair=USDSEK 200 in 77ms
+ GET /api/news/stream 200 in 8675547ms
+ GET /api/analyze?pair=USDSEK 200 in 57524ms
+ GET /api/analyze?pair=USDSEK 200 in 962ms
+ GET /api/analyze?pair=USDSEK 200 in 19686ms
+ GET /api/analyze?pair=USDSEK 200 in 828ms
+ GET /analyzer?pair=USDSEK 200 in 352ms
+ GET /api/analyze?pair=USDSEK 200 in 93ms
+ GET /api/analyze?pair=USDSEK 200 in 54ms
+ GET /api/analyze?pair=USDSEK 200 in 44ms
+ GET /api/analyze?pair=USDSEK 200 in 37ms
+ GET /api/news/stream 200 in 21885ms
+ GET /analyzer?pair=USDSEK 200 in 129ms
+ GET /api/analyze?pair=USDSEK 200 in 33ms
+ GET / 200 in 50ms
+ GET /api/quotes 200 in 879ms
+ GET /top 200 in 200ms
+ GET /api/quotes 200 in 33ms
+ GET /api/scan 200 in 19ms
+ GET /api/scan 200 in 17ms
+ GET /analyzer 200 in 48ms
+ GET /api/news/stream 200 in 19622ms
+ GET /api/analyze?pair=EURUSD 200 in 15880ms
+ GET / 200 in 250ms
+ GET /api/quotes 200 in 49ms
+ GET /analyzer?pair=USDSEK 200 in 85ms
+ GET /api/analyze?pair=USDSEK 200 in 690ms
+ GET /api/analyze?pair=USDSEK 200 in 38ms
+ GET /api/analyze?pair=USDSEK 200 in 869ms
+ GET /api/analyze?pair=USDSEK 200 in 788ms
+ GET /api/analyze?pair=USDSEK 200 in 51ms
+ GET /api/analyze?pair=USDSEK 200 in 28186ms
+ GET /api/analyze?pair=USDSEK 200 in 20668ms
+ GET /api/analyze?pair=USDSEK 200 in 6788ms
+ GET /api/analyze?pair=USDSEK 200 in 827ms
+ GET /api/news/stream 200 in 16732368ms
+ GET /api/analyze?pair=USDSEK 200 in 18106ms
+ GET /analyzer?pair=USDSEK 200 in 161ms
+ GET /api/analyze?pair=USDSEK 200 in 358ms
+ GET /api/news/stream 200 in 5789ms
+ GET / 200 in 200ms
+ GET /api/quotes 200 in 766ms
+ GET / 200 in 217ms
+ GET /favicon.ico 200 in 99ms
+ GET /api/quotes 200 in 52ms
+ GET /api/news/stream 200 in 4844ms
+ GET /top 200 in 114ms
+ GET /favicon.ico 200 in 20ms
+ GET /api/scan 200 in 93ms
+ GET /api/scan 200 in 27ms
+ GET /api/news/stream 200 in 4934ms
+ GET /analyzer?pair=EURUSD 200 in 204ms
+ GET /favicon.ico 200 in 40ms
+ GET /api/analyze?pair=EURUSD 200 in 402ms
+ GET /api/quotes 200 in 19ms
+ GET /api/news/stream 200 in 4844ms
+ GET /news 200 in 112ms
+ GET /favicon.ico 200 in 38ms
+ GET /api/news?limit=300 200 in 73ms
+ GET /api/news/stream 200 in 4880ms
+ GET /api/news/stream 200 in 4894ms
+ GET / 200 in 276ms
+ GET /favicon.ico 200 in 43ms
+ GET /api/quotes 200 in 1384ms
+ GET /api/news/stream 200 in 4752ms
+ GET /top 200 in 208ms
+ GET /favicon.ico 200 in 20ms
+ GET /api/scan 200 in 58ms
+ GET /api/scan 200 in 34ms
+ GET /api/news/stream 200 in 4926ms
+ GET /analyzer?pair=EURUSD 200 in 295ms
+ GET /favicon.ico 200 in 38ms
+ GET /api/analyze?pair=EURUSD 200 in 52ms
+ GET /api/news/stream 200 in 4840ms
+ GET /news 200 in 123ms
+ GET /favicon.ico 200 in 62ms
+ GET /api/news?limit=300 200 in 78ms
+ GET /api/news/stream 200 in 4815ms
+ GET /api/news/stream 200 in 4838ms
+ ✓ Compiled in 4.3s (821 modules)
+ GET / 200 in 587ms
+ GET /api/quotes 200 in 889ms
+ GET / 200 in 335ms
+ GET /favicon.ico 200 in 22ms
+ GET /api/quotes 200 in 34ms
+ GET /api/news/stream 200 in 4840ms
+ GET /top 200 in 135ms
+ GET /favicon.ico 200 in 25ms
+ GET /api/scan 200 in 76ms
+ GET /api/scan 200 in 23ms
+ GET /api/news/stream 200 in 4878ms
+ GET /analyzer?pair=EURUSD 200 in 301ms
+ GET /favicon.ico 200 in 51ms
+ GET /api/analyze?pair=EURUSD 200 in 475ms
+ GET /api/news/stream 200 in 4890ms
+ GET /news 200 in 142ms
+ GET /favicon.ico 200 in 29ms
+ GET /api/news?limit=300 200 in 53ms
+ GET /api/news/stream 200 in 4881ms
+ GET /api/news/stream 200 in 4897ms
+ GET / 200 in 229ms
+ GET /favicon.ico 200 in 24ms
+ GET /api/quotes 200 in 69ms
+ GET /analyzer?pair=USDSEK 200 in 91ms
+ GET /api/analyze?pair=USDSEK 200 in 552ms
+ GET /api/analyze?pair=USDSEK 200 in 55ms
+ GET /api/news/stream 200 in 4816ms
+ GET /top 200 in 200ms
+ GET /favicon.ico 200 in 104ms
+ GET /api/scan 200 in 169ms
+ GET /api/scan 200 in 53ms
+ GET /api/news/stream 200 in 4614ms
+ GET /top 200 in 81ms
+ GET /api/scan 200 in 27ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan?force=1 200 in 45ms
+ GET /api/scan 200 in 31ms
+ GET /api/scan 200 in 24ms
+ GET /api/scan 200 in 28ms
+ GET /api/scan 200 in 22ms
+ GET /api/scan 200 in 34ms
+ GET /api/scan 200 in 18ms
+ GET /api/scan 200 in 22ms
+ GET /analyzer?pair=NZDJPY 200 in 70ms
+ GET /api/analyze?pair=NZDJPY 200 in 484ms
+ GET /api/analyze?pair=NZDJPY 200 in 48ms
+ GET /top 200 in 150ms
+ GET /api/scan 200 in 94ms
+ GET /api/scan 200 in 91ms
+ GET /api/scan 200 in 54ms
+ GET /api/scan 200 in 63ms
+ GET /analyzer?pair=EURNZD 200 in 166ms
+ GET /api/scan 200 in 104ms
+ GET /api/analyze?pair=EURNZD 200 in 574ms
+ GET /api/analyze?pair=EURNZD 200 in 117ms
+ GET /api/scan 200 in 51ms
+ GET /api/scan 200 in 50ms
+ GET /api/scan?force=1 200 in 92ms
+ GET /api/scan 200 in 30ms
+ GET /api/scan 200 in 73ms
+ GET /api/scan 200 in 55ms
+ GET /api/scan 200 in 67ms
+ GET /api/scan 200 in 44ms
+ GET /api/scan 200 in 42ms
+ GET /api/scan 200 in 53ms
+ GET /api/scan 200 in 38ms
+ GET /api/scan 200 in 49ms
+ GET /api/scan 200 in 42ms
+ GET /api/scan 200 in 42ms
+ GET /api/scan 200 in 72ms
+ GET /analyzer?pair=EURGBP 200 in 119ms
+ GET /api/analyze?pair=EURGBP 200 in 151ms
+ GET /api/analyze?pair=EURGBP 200 in 115ms
+ ✓ Compiled in 7.4s (737 modules)
+ GET / 200 in 2953ms
+ GET / 200 in 247ms
+ ✓ Compiled in 733ms (264 modules)
+ GET / 200 in 769ms
+ ✓ Compiled in 907ms (264 modules)
+ GET / 200 in 486ms
+ GET / 200 in 261ms
+ GET / 200 in 189ms
+ ○ Compiling /api/quotes ...
+ ✓ Compiled /api/quotes in 2.9s (495 modules)
+ GET / 200 in 6276ms
+ GET /api/quotes 200 in 7303ms
+ GET /api/quotes 200 in 43ms
+ GET /analyzer?pair=USDJPY 200 in 195ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 4.5s (548 modules)
+ GET /analyzer?pair=USDJPY 200 in 1325ms
+ ✓ Compiled in 3.7s (812 modules)
+ GET /analyzer?pair=USDJPY 200 in 758ms
+ GET /api/analyze?pair=USDJPY 200 in 1488ms
+ GET /api/quotes 200 in 1086ms
+ GET /api/quotes 200 in 56ms
+ ✓ Compiled in 3.5s (812 modules)
+ GET / 200 in 611ms
+ ✓ Compiled in 1151ms (264 modules)
+ GET / 200 in 695ms
+ GET /api/analyze?pair=USDJPY 200 in 94694ms
+ GET /api/quotes 200 in 2462ms
+ ✓ Compiled in 22.6s (761 modules)
+ GET /analyzer?pair=USDSEK 200 in 15288ms
+ GET /analyzer?pair=USDSEK 200 in 661ms
+ GET /analyzer?pair=USDSEK 200 in 660ms
+ GET /analyzer?pair=USDSEK 200 in 668ms
+ GET /analyzer?pair=USDSEK 200 in 664ms
+ GET /analyzer?pair=USDSEK 200 in 663ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 4.4s (549 modules)
+ GET /api/analyze?pair=USDSEK 200 in 899ms
+ GET /api/analyze?pair=USDSEK 200 in 27791ms
+ GET /analyzer?pair=EURUSD 200 in 1264ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /api/news/stream in 2.7s (549 modules)
+ ✓ Compiled (551 modules)
+ GET /favicon.ico 200 in 4191ms
+ GET /api/analyze?pair=EURUSD 200 in 39532ms
+ GET /api/news/stream 200 in 47264ms
+ GET /analyzer?pair=USDJPY 200 in 1110ms
+ GET /favicon.ico 200 in 51ms
+ GET /api/analyze?pair=USDJPY 200 in 30902ms
+ GET /api/news/stream 200 in 39566ms
+ GET /analyzer?pair=GBPUSD 200 in 395ms
+ GET /favicon.ico 200 in 145ms
+ GET /api/analyze?pair=GBPUSD 200 in 45843ms
+ GET /api/news/stream 200 in 54681ms
+ ✓ Compiled in 10.7s (812 modules)
+ GET /analyzer?pair=USDSEK 200 in 1350ms
+ GET /api/analyze?pair=USDSEK 200 in 37094ms
+ GET /api/analyze?pair=EURUSD 200 in 857ms
+ GET /api/analyze?pair=USDSEK 200 in 25612ms
+ GET /analyzer?pair=EURUSD 200 in 1004ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /api/news/stream in 1203ms (549 modules)
+ ✓ Compiled (551 modules)
+ GET /favicon.ico 200 in 2326ms
+ GET /news 200 in 395ms
+ ○ Compiling /api/news ...
+ ✓ Compiled /api/news in 1131ms (553 modules)
+ GET /api/news?limit=300 200 in 2624ms
+ GET /api/news?limit=300 200 in 61ms
+ GET /api/analyze?pair=EURUSD 200 in 48726ms
+ GET /api/news/stream 200 in 60132ms
+ GET / 200 in 346ms
+ GET /api/news/stream 200 in 128073ms
+ ○ Compiling /api/quotes ...
+ ✓ Compiled /api/quotes in 3.8s (496 modules)
+ GET /api/quotes 200 in 5327ms
+ GET /api/quotes 200 in 40ms
+ GET /api/quotes 200 in 55ms
+ GET /analyzer?pair=USDJPY 200 in 354ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 2.3s (549 modules)
+ GET /api/analyze?pair=USDJPY 200 in 849ms
+ GET /api/analyze?pair=USDJPY 200 in 30257ms
+ ✓ Compiled in 7.7s (739 modules)
+ GET /analyzer?pair=USDJPY 200 in 1462ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 6.3s (547 modules)
+ GET /analyzer?pair=USDJPY 200 in 2004ms
+ ✓ Compiled in 2.8s (265 modules)
+ ✓ Compiled in 603ms (265 modules)
+ GET /analyzer?pair=USDJPY 200 in 513ms
+ GET /analyzer?pair=USDJPY 200 in 150ms
+ ✓ Compiled in 319ms (265 modules)
+ ⨯ SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>) {
+  page: '/analyzer'
+}
+ ○ Compiling /_error ...
+ GET /api/analyze?pair=USDJPY 200 in 30052ms
+ ✓ Compiled /_error in 21.5s (1169 modules)
+ GET /analyzer?pair=USDJPY 500 in 23225ms
+ GET /analyzer?pair=USDJPY 200 in 826ms
+ GET /analyzer?pair=USDJPY 200 in 341ms
+ GET /analyzer?pair=USDJPY 200 in 193ms
+ GET /api/news/stream 200 in 1715684ms
+ GET /analyzer?pair=USDJPY 200 in 1300ms
+ ○ Compiling /api/news/stream ...
+ ✓ Compiled /api/news/stream in 3.8s (753 modules)
+ ✓ Compiled in 542ms (418 modules)
+ GET /analyzer?pair=USDJPY 200 in 662ms
+ ✓ Compiled in 4.4s (1183 modules)
+ GET /analyzer?pair=USDJPY 200 in 4346ms
+ GET /analyzer?pair=USDJPY 200 in 287ms
+ ○ Compiling /api/backtest ...
+ ✓ Compiled /api/backtest in 1739ms (1061 modules)
+ GET /api/backtest 200 in 2496ms
+ GET /api/backtest 200 in 62ms
+ GET /api/analyze?pair=USDJPY 200 in 76285ms
+ GET /api/backtest 200 in 986ms
+ GET /api/backtest 200 in 84ms
+ GET /api/backtest 200 in 165ms
+ GET /api/backtest 200 in 1058ms
+ GET /api/backtest 200 in 55ms
+ GET /api/backtest 200 in 80ms
+ GET /api/backtest 200 in 68ms
+ GET /api/backtest 200 in 37ms
+[backtest] finished in 152s
+ GET /api/backtest 200 in 53ms
+ GET /api/analyze?pair=USDJPY 200 in 31371ms
+ ✓ Compiled in 7.9s (995 modules)
+ GET /analyzer?pair=USDJPY 200 in 1022ms
+ ✓ Compiled in 576ms (417 modules)
+ GET /analyzer?pair=USDJPY 200 in 380ms
+ ○ Compiling /api/backtest ...
+ ✓ Compiled /api/backtest in 5.2s (606 modules)
+ GET /api/backtest?run=1 200 in 6016ms
+ GET /analyzer?pair=USDJPY 200 in 1281ms
+ GET /api/backtest 200 in 949ms
+ GET /api/backtest 200 in 77ms
+ GET /api/backtest 200 in 96ms
+ GET /api/backtest 200 in 50ms
+ GET /api/backtest 200 in 51ms
+ GET /api/backtest 200 in 84ms
+ GET /api/backtest 200 in 490ms
+ GET /api/backtest 200 in 38ms
+[backtest] finished in 130s
+ GET /api/backtest 200 in 39ms
+ ✓ Compiled in 5.6s (1023 modules)
+ GET /analyzer?pair=USDJPY 200 in 1030ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 772ms (651 modules)
+ GET /analyzer?pair=USDJPY 200 in 1028ms
+ ✓ Compiled in 443ms (417 modules)
+ GET /analyzer?pair=USDJPY 200 in 257ms
+ ✓ Compiled in 4.7s (1080 modules)
+ GET /analyzer?pair=USDJPY 200 in 4663ms
+ GET /analyzer?pair=USDJPY 200 in 139ms
+ GET /api/analyze?pair=USDJPY 200 in 25630ms
+ ✓ Compiled in 5.3s (1072 modules)
+ GET /analyzer?pair=USDJPY 200 in 521ms
+ ✓ Compiled in 446ms (417 modules)
+ GET /analyzer?pair=USDJPY 200 in 287ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 12.6s (995 modules)
+ ✓ Compiled in 4ms (655 modules)
+ GET /analyzer?pair=USDJPY 200 in 6347ms
+ ✓ Compiled in 3.6s (1072 modules)
+ GET /analyzer?pair=USDJPY 200 in 630ms
+ GET /api/analyze?pair=USDJPY 200 in 34917ms
+ ✓ Compiled in 2.5s (1075 modules)
+ ✓ Compiled in 2ms (657 modules)
+ ✓ Compiled in 2ms (657 modules)
+ ✓ Compiled in 2ms (657 modules)
+ GET /analyzer?pair=USDJPY 200 in 5306ms
+ GET /api/analyze?pair=USDJPY 200 in 51423ms
+ ✓ Compiled in 507ms (418 modules)
+ ✓ Compiled in 610ms (418 modules)
+ GET /analyzer?pair=USDJPY 200 in 769ms
+ GET /analyzer?pair=USDJPY 200 in 126ms
+ ✓ Compiled in 9.9s (1009 modules)
+ GET /analyzer?pair=USDJPY 200 in 8816ms
+ GET /analyzer?pair=USDJPY 200 in 1069ms
+ ✓ Compiled in 17.6s (997 modules)
+ GET /analyzer?pair=USDJPY 200 in 1242ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 2.7s (657 modules)
+ GET /api/analyze?pair=EURUSD 200 in 36412ms
+ ○ Compiling /api/track ...
+ ✓ Compiled /api/track in 5.6s (1063 modules)
+ GET /api/track 200 in 6131ms
+ ✓ Compiled in 6.6s (1077 modules)
+ GET /analyzer?pair=USDJPY 200 in 1300ms
+ ○ Compiling /api/backtest ...
+ ✓ Compiled /api/backtest in 910ms (611 modules)
+ GET /api/backtest 200 in 1254ms
+ GET /analyzer?pair=USDJPY 200 in 1373ms
+ ✓ Compiled in 2s (1026 modules)
+ GET /analyzer?pair=USDJPY 200 in 601ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 1327ms (659 modules)
+ GET /analyzer?pair=USDJPY 200 in 2428ms
+ GET /api/backtest 200 in 381ms
+ GET /api/backtest 200 in 63ms
+ GET /api/analyze?pair=USDJPY 400 in 36050ms
+ GET /api/backtest 200 in 81ms
+ GET /api/backtest 200 in 99ms
+ GET /api/backtest 200 in 58ms
+ GET /api/backtest 200 in 84ms
+ GET /api/backtest 200 in 89ms
+ GET /api/backtest 200 in 54ms
+ GET /api/backtest 200 in 54ms
+ GET /api/backtest 200 in 64ms
+ GET /api/backtest 200 in 56ms
+[backtest] finished in 175s
+ GET /api/backtest 200 in 83ms
+ ○ Compiling /performance ...
+ ✓ Compiled /performance in 17.4s (1021 modules)
+ GET /performance 200 in 19432ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /api/news/stream in 3.8s (616 modules)
+ ✓ Compiled (662 modules)
+ GET /favicon.ico 200 in 9538ms
+TypeError: Cannot read properties of undefined (reading 'then')
+    at serial (src/lib/tracker.ts:49:28)
+    at resolveDue (src/lib/tracker.ts:108:10)
+    at getTrackSummary (src/lib/tracker.ts:207:9)
+    at async GET (src/app/api/track/route.ts:7:28)
+  47 |
+  48 | function serial<T>(fn: () => Promise<T>): Promise<T> {
+> 49 |   const next = state.queue.then(fn, fn);
+     |                            ^
+  50 |   state.queue = next.catch(() => {});
+  51 |   return next;
+  52 | }
+ GET /api/track 500 in 9900ms
+ GET /api/backtest 200 in 10313ms
+ GET /analyzer?pair=USDJPY 200 in 3080ms
+ GET /performance 200 in 3090ms
+ GET /api/news/stream 200 in 35828ms
+ GET /performance 200 in 1008ms
+ GET /favicon.ico 200 in 80ms
+ GET /api/backtest 200 in 119ms
+TypeError: Cannot read properties of undefined (reading 'then')
+    at serial (src/lib/tracker.ts:49:28)
+    at resolveDue (src/lib/tracker.ts:108:10)
+    at getTrackSummary (src/lib/tracker.ts:207:9)
+    at async GET (src/app/api/track/route.ts:7:28)
+  47 |
+  48 | function serial<T>(fn: () => Promise<T>): Promise<T> {
+> 49 |   const next = state.queue.then(fn, fn);
+     |                            ^
+  50 |   state.queue = next.catch(() => {});
+  51 |   return next;
+  52 | }
+ GET /api/track 500 in 431ms
+ GET /api/news/stream 200 in 5722ms
+ GET /performance 200 in 318ms
+ GET /favicon.ico 200 in 57ms
+ GET /api/backtest 200 in 117ms
+TypeError: Cannot read properties of undefined (reading 'then')
+    at serial (src/lib/tracker.ts:49:28)
+    at resolveDue (src/lib/tracker.ts:108:10)
+    at getTrackSummary (src/lib/tracker.ts:207:9)
+    at async GET (src/app/api/track/route.ts:7:28)
+  47 |
+  48 | function serial<T>(fn: () => Promise<T>): Promise<T> {
+> 49 |   const next = state.queue.then(fn, fn);
+     |                            ^
+  50 |   state.queue = next.catch(() => {});
+  51 |   return next;
+  52 | }
+ GET /api/track 500 in 491ms
+ GET /api/news/stream 200 in 6396ms
+ GET /analyzer?pair=USDJPY 200 in 1799ms
+ GET /favicon.ico 200 in 143ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 2.1s (671 modules)
+ GET /api/analyze?pair=USDJPY 400 in 1121ms
+ GET /api/analyze?pair=USDJPY 400 in 29960ms
+ GET /api/news/stream 200 in 149525ms
+TypeError: Cannot read properties of undefined (reading 'then')
+    at serial (src/lib/tracker.ts:49:28)
+    at resolveDue (src/lib/tracker.ts:108:10)
+    at getTrackSummary (src/lib/tracker.ts:207:9)
+    at async GET (src/app/api/track/route.ts:7:28)
+  47 |
+  48 | function serial<T>(fn: () => Promise<T>): Promise<T> {
+> 49 |   const next = state.queue.then(fn, fn);
+     |                            ^
+  50 |   state.queue = next.catch(() => {});
+  51 |   return next;
+  52 | }
+ GET /api/track 500 in 753ms
+ GET /api/analyze?pair=USDJPY 400 in 796ms
+ ✓ Compiled in 11.9s (1086 modules)
+ GET /analyzer?pair=USDJPY 200 in 1099ms
+ GET /api/track 200 in 169ms
+ GET /performance 200 in 831ms
+ ○ Compiling /api/backtest ...
+ ✓ Compiled /api/news/stream in 1471ms (667 modules)
+ ✓ Compiled (671 modules)
+ GET /favicon.ico 200 in 3326ms
+ GET /api/backtest 200 in 3009ms
+ GET /api/track 200 in 3347ms
+ GET /api/news/stream 200 in 36218ms
+ GET /performance 200 in 935ms
+ GET /favicon.ico 200 in 125ms
+ GET /api/backtest 200 in 205ms
+ GET /api/track 200 in 284ms
+ GET /api/news/stream 200 in 6041ms
+ GET /performance 200 in 343ms
+ GET /favicon.ico 200 in 260ms
+ GET /api/backtest 200 in 419ms
+ GET /api/track 200 in 424ms
+ GET /api/news/stream 200 in 5933ms
+ GET /analyzer?pair=USDJPY 200 in 1062ms
+ GET /favicon.ico 200 in 73ms
+ GET /api/analyze?pair=USDJPY 200 in 17823ms
+ GET /api/news/stream 200 in 26471ms
+ GET /api/analyze?pair=USDJPY 200 in 430ms
+ GET /performance 200 in 457ms
+ GET /favicon.ico 200 in 76ms
+ GET /api/backtest 200 in 146ms
+ GET /api/track 200 in 179ms
+ GET /api/news/stream 200 in 34356ms
+ ✓ Compiled in 13.8s (1092 modules)
+ GET /performance 200 in 3429ms
+ GET /analyzer?pair=USDJPY 200 in 810ms
+ GET /favicon.ico 200 in 218ms
+ GET /api/backtest 200 in 210ms
+ GET /api/track 200 in 262ms
+ GET /api/news/stream 200 in 4628ms
+ GET /analyzer?pair=USDJPY 200 in 421ms
+ GET /favicon.ico 200 in 75ms
+ GET /api/analyze?pair=USDJPY 200 in 24628ms
+ GET / 200 in 334ms
+ ○ Compiling /api/quotes ...
+ ✓ Compiled /api/quotes in 7.7s (673 modules)
+ GET /api/quotes 200 in 10698ms
+ GET /analyzer?pair=USDSEK 200 in 3076ms
+ GET /api/quotes 200 in 316ms
+ GET /analyzer?pair=USDJPY 200 in 812ms
+ GET /analyzer?pair=USDSEK 200 in 757ms
+ GET /analyzer?pair=USDSEK 200 in 569ms
+ GET /api/news/stream 200 in 42887ms
+ GET /api/analyze?pair=USDSEK 200 in 1272ms
+ GET /performance 200 in 508ms
+ GET /favicon.ico 200 in 120ms
+ GET /api/backtest 200 in 153ms
+ GET /api/track 200 in 253ms
+ GET /api/news/stream 200 in 4797ms
+ GET /api/analyze?pair=USDSEK 200 in 60936ms
+ GET /top 200 in 345ms
+ ○ Compiling /api/scan ...
+ ✓ Compiled /api/scan in 9.6s (674 modules)
+ GET /api/scan 200 in 11071ms
+ GET /api/scan 200 in 1550ms
+ GET /api/scan 200 in 1529ms
+ GET /top 200 in 5273ms
+ GET /api/scan 200 in 2508ms
+ GET /api/scan 200 in 285ms
+ GET /api/scan 200 in 60ms
+ GET /api/scan 200 in 120ms
+ GET /api/scan 200 in 192ms
+ GET /api/scan 200 in 108ms
+ GET /api/scan 200 in 81ms
+ GET /api/scan 200 in 168ms
+ GET /api/scan 200 in 91ms
+ GET /api/scan 200 in 176ms
+ GET /api/scan 200 in 130ms
+ GET /api/scan 200 in 241ms
+ GET /api/scan 200 in 1367ms
+ GET /api/scan 200 in 113ms
+ GET /api/scan 200 in 178ms
+ GET /api/scan 200 in 120ms
+ GET /api/scan 200 in 149ms
+ GET /api/scan 200 in 55ms
+ GET /api/scan 200 in 45ms
+ GET /api/scan 200 in 50ms
+ GET /api/scan 200 in 47ms
+ ✓ Compiled in 3s (421 modules)
+ GET /api/scan 200 in 365ms
+ GET /top 200 in 381ms
+ GET /api/scan 200 in 38ms
+ GET /api/scan 200 in 77ms
+ GET /api/scan 200 in 37ms
+ GET /api/scan 200 in 38ms
+ GET /api/scan 200 in 45ms
+ GET /api/scan 200 in 42ms
+ GET /api/scan 200 in 38ms
+ GET /api/scan 200 in 37ms
+ GET /api/scan 200 in 49ms
+ GET /api/scan 200 in 45ms
+ GET /api/scan 200 in 41ms
+ GET /api/scan 200 in 48ms
+ GET /api/scan 200 in 43ms
+ GET /api/scan 200 in 53ms
+ GET /api/scan 200 in 61ms
+ GET /api/scan 200 in 58ms
+ GET /api/scan 200 in 56ms
+ GET /api/scan 200 in 47ms
+ GET /api/scan 200 in 41ms
+ GET /api/scan 200 in 49ms
+ GET /api/scan 200 in 50ms
+ GET /api/scan 200 in 43ms
+ GET /analyzer 200 in 189ms
+ GET /api/analyze?pair=EURUSD 200 in 832ms
+ GET /api/analyze?pair=EURUSD 200 in 267ms
+ GET /analyzer?pair=EURGBP 200 in 131ms
+ GET /api/analyze?pair=EURGBP 200 in 654ms
+ GET /api/analyze?pair=EURGBP 200 in 973ms
+ GET /analyzer?pair=USDJPY 200 in 150ms
+ GET /api/analyze?pair=USDJPY 200 in 698ms
+ GET /top 200 in 126ms
+ GET /api/scan 200 in 57ms
+ GET /api/scan 200 in 57ms
+ GET /api/scan 200 in 48ms
+ GET /api/scan 200 in 61ms
+ GET /api/scan 200 in 49ms
+ GET /api/scan 200 in 48ms
+ GET /api/scan 200 in 55ms
+ GET /api/scan 200 in 43ms
+ GET /api/scan 200 in 44ms
+ GET /api/scan 200 in 55ms
+ GET /api/scan 200 in 47ms
+ GET /api/scan 200 in 55ms
+ GET /api/scan 200 in 64ms
+ GET /api/scan 200 in 44ms
+ GET /api/scan 200 in 59ms
+ GET /api/scan 200 in 47ms
+ GET /api/scan 200 in 56ms
+ GET /api/scan 200 in 85ms
+ GET /api/scan 200 in 43ms
+ GET /api/scan 200 in 54ms
+ GET /api/scan 200 in 50ms
+ GET /api/scan 200 in 44ms
+ GET /api/scan 200 in 47ms
+ GET /api/scan 200 in 52ms
+ GET /api/scan 200 in 39ms
+ GET /api/scan 200 in 51ms
+ GET /api/scan 200 in 51ms
+ GET /api/scan 200 in 87ms
+ GET /api/scan 200 in 221ms
+ GET /api/scan 200 in 44ms
+ GET /api/scan 200 in 100ms
+ GET /api/scan 200 in 151ms
+ GET /api/scan 200 in 160ms
+ GET /api/scan 200 in 46ms
+ GET /api/scan 200 in 66ms
+ GET /api/scan 200 in 33ms
+ GET /analyzer?pair=USDPHP 200 in 111ms
+ GET /api/analyze?pair=USDPHP 200 in 536ms
+ GET /api/analyze?pair=USDPHP 200 in 248ms
+ GET / 200 in 166ms
+ ○ Compiling /api/quotes ...
+ ✓ Compiled /api/quotes in 3.1s (607 modules)
+ GET /api/quotes 200 in 5413ms
+ GET /api/quotes 200 in 92ms
+ GET /top 200 in 468ms
+ ○ Compiling /api/scan ...
+ ✓ Compiled /api/scan in 2.9s (666 modules)
+ GET /api/scan 200 in 3441ms
+ GET /api/scan 200 in 221ms
+ GET /api/scan 200 in 84ms
+ GET /analyzer?pair=EURJPY 200 in 285ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 982ms (668 modules)
+ GET /api/analyze?pair=EURJPY 200 in 838ms
+ GET /api/analyze?pair=EURJPY 200 in 27488ms
+ GET /top 200 in 316ms
+ GET /api/scan 200 in 103ms
+ GET /api/scan 200 in 61ms
+ GET /api/scan 200 in 56ms
+ GET /api/news/stream 200 in 2636223ms
